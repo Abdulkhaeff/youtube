@@ -20,7 +20,7 @@ export const Main = () => {
         </Div.Button>
         <Div.K>
           <Div.Img2 />
-          <Div.H1>Youtube</Div.H1>
+          <Div.H1>Youtubee</Div.H1>
         </Div.K>
       </Div.M>
       <Div.B>
